@@ -53,7 +53,7 @@
 ## 2. Варианты использования.
 
 Диаграмма вариантов использования:
-<img width="1174" height="735" alt="Диаграмма вариантов использования" src="https://github.com/user-attachments/assets/4d9bb7fa-9200-4b86-bc80-0505dd0b4116" />
+<img width="1056" height="630" alt="use case" src="https://github.com/user-attachments/assets/95470d7c-9732-4acb-92a3-b8303fe3eeaf" />
 
 ## 3. Сценарии использования системы, обработка ошибок.
 
